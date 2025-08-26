@@ -1,0 +1,7 @@
+title: "Eco Friendly Kitchen Gadgets"
+description: "Insights and guides about eco friendly kitchen gadgets"
+theme: jekyll-theme-minimal
+url: "https://calcifergtp-glitch.github.io"
+baseurl: "/eco-friendly-kitchen-gadgets"
+plugins:
+  - jekyll-sitemap
